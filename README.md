@@ -1,5 +1,7 @@
 # 🎮 TicTac Arena
 
+Official CA : 5RRhNTy8SoZ2y3XfVfUvxF15PK6QqKModNhoAspapump
+
 **Classic game, redefined.**  
 TicTac Arena blends skill, logic, and fast-paced digital battles into a modern twist on the timeless Tic Tac Toe experience.
 
